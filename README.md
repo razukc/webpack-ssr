@@ -1,11 +1,9 @@
-<p align="center"><a href="https://vuetifyjs.com" target="_blank"><img width="100"src="https://vuetifyjs.com/public/v.png"></a></p>
-
 # Vuetify.js Webpack SSR Template
 
 ## Build Setup
 
 ``` bash
-vue init vuetifyjs/webpack-ssr
+vue init razukc/webpack-ssr
 
 cd webpack-ssr
 
